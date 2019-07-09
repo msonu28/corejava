@@ -2,4 +2,5 @@ class Sorting{
   System.out.println("Bubble");
   System.out.println("Insertion");
   System.out.println("Selection");
+  System.out.println("Merge");
 }
